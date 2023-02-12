@@ -2,6 +2,8 @@ public class Main {
     public static void main(String[] args) {
         // Variables and simulated input
         int birthMonth = 13;
+        // Initial prompt from program
+        System.out.println("Please enter your birth month as an integer:");
         // Cascaded if then else; if birthMonth == 1 then
         if(birthMonth == 1)
         {
